@@ -6,7 +6,7 @@ class Act1 extends Component {
             <div>
                 <h2>Act 1</h2>
                 <br/>
-                <img src="images/greatpyramid.jpg" width="150px" height="150px" title="The Great Pyramid" alt="The Great Pyramid"></img>
+                <img src="images/greatpyramid.jpg" width="200px" height="200px" title="The Great Pyramid" alt="The Great Pyramid"></img>
                 <br/>
                 <p>
                 Our story begins with our protagonist, a coder named Fred, who is working one day in his cubicle at big corporate no name company working on his latest Javascript assignment.<br/>

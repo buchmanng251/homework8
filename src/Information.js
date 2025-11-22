@@ -6,7 +6,7 @@ class Information extends Component {
             <div>
                 <h2>Information</h2>
                 <br/>
-                <img src="images/google-gemini.jpg" width="150px" height="150px" title="Google Gemini Logo" alt="Google Gemini Logo"></img>
+                <img src="images/google-gemini.jpg" width="200px" height="200px" title="Google Gemini Logo" alt="Google Gemini Logo"></img>
                 <br/>
                 <p>
                 I&apos;m in the midst of writing a 3 Act Story ( call it a short subject movie ) with an AI assistant.<br/>

@@ -6,7 +6,7 @@ class Act2 extends Component {
             <div>
                 <h2>Act 2</h2>
                 <br/>
-                <img src="images/starshiplaunch.jpg" width="150px" height="150px" title="Starship Launch" alt="Starship Launch"></img>
+                <img src="images/starshiplaunch.jpg" width="200px" height="200px" title="Starship Launch" alt="Starship Launch"></img>
                 <br/>
                 <p>
                 We begin with Fred on a ship crossing the largest ocean on earth, the Pacific Ocean. It is so vast, that he has not seen land for many days.

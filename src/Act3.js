@@ -6,11 +6,11 @@ class Act3 extends Component {
             <div>
                 <h2>Act 3</h2>
                 <br/>
-                <img src="images/moonlaunch.jpg" width="150px" height="150px" title="Lunar Mass Driver" alt="Lunar Mass Driver"></img>
+                <img src="images/moonlaunch.jpg" width="200px" height="200px" title="Lunar Mass Driver" alt="Lunar Mass Driver"></img>
                 <br/>
                 <p>
                 We catch up with Fred, it is now over 100 years in the future. People basically live forever because of AI.<br/>
-                We see a mine on the near side of the moon so vast and so deep that it can be clearly seen from the earth when looking up at the moon on a full moon night.<br/>
+                We see an ore mine on the near side of the moon so vast and so deep that it can be clearly seen from the earth when looking up at the moon on a full moon night.<br/>
                 There is another similiar mine on the far side of the moon so that the moon does not wobble from the vast amounts of rock which have been removed.<br/>
                 There are giant space stations orbiting the moon which have been constructed from all this lunar material.<br/>
                 Spacestations are constructing other spacestations and vast arrays of solar panels for the datacenters powered by the sun while orbiting the sun.<br/>

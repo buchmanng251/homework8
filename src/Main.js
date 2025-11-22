@@ -16,7 +16,7 @@ class Main extends Component {
             <HashRouter>
                 <div>
                     <br/>
-                    <h1>Tomorrow</h1>
+                    <h1><i>Tomorrow</i></h1>
                     <br/>
                     <br/>
                     <ul className="header">
