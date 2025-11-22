@@ -12,7 +12,7 @@ class Act1 extends Component {
                 Our story begins with our protagonist, a coder named Fred, who is working one day in his cubicle at big corporate no name company working on his latest Javascript assignment.<br/>
                 Bill his manager comes to his cubible carrying a pink piece of paper in his hand, indicating that his job has been replaced by AI. Bill indicates to Fred that he needs to collect his personal items into a box and pick up this final paycheck while he leaves the company.<br/>
                 Fred, knew this was coming someday anyway because he had seen so many of his coworkers leave the company under similiar circumstances over the pervious weeks and months.<br/>
-                Fred ( our protagontist ) has seen that there are no jobs to be had anywhere as they are all being replaced by AI and humanoid robots recently.<br/>
+                Fred has seen that there are no jobs to be had anywhere as they are all being replaced by AI and humanoid robots recently.<br/>
                 Fred takes the last of his money out of whatever bank account he has, and packs a few items in his backpack and sets off on his life&apos;s adventure<br/>
                 He observes during his travels that more and more people are unemployed and unemployable everywhere. Fred travels to Chichen Itza in Mexico and Machu Picchu in Peru and marvels at the monuments to man from the past and the immense effort required to accomplish such tasks. He sees these sights always at night and there is always a nearly full moon in the sky while marveling at these accomplishments.<br/>
                 <br/>
